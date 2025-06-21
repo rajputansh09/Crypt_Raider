@@ -1,0 +1,21 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.VC.db
+*.suo
+*.opensdf
+*.sdf
+*.ipch
+*.aps
+*.ncb
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+*.app
+*.DS_Store
+
